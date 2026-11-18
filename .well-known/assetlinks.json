@@ -1,1 +1,9 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.ghruphadu_jpg.twa",
+        "sha256_cert_fingerprints": ["2B:ED:F3:F3:40:7B:E9:7D:D5:A6:F4:C2:23:37:63:25:BE:E0:05:DE:F0:49:6B:A0:9E:95:57:7F:EE:39:0C:DF"]
+      }
+    }]
 
